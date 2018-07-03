@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NewLayout.iml" filepath="$PROJECT_DIR$/NewLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/error/error.iml" filepath="$PROJECT_DIR$/error/error.iml" />
     </modules>
   </component>
 </project>
